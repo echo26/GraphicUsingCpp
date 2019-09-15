@@ -1,3 +1,0 @@
-/Users/edward/Documents/github/cis441project1/CMakeFiles/rebuild_cache.dir
-/Users/edward/Documents/github/cis441project1/CMakeFiles/edit_cache.dir
-/Users/edward/Documents/github/cis441project1/CMakeFiles/graphic.dir

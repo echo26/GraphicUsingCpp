@@ -13,4 +13,3 @@ if(VTK_LIBRARIES)
 else()
   target_link_libraries(graphic vtkHybrid)
 endif()
-
