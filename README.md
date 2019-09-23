@@ -1,6 +1,7 @@
-# GraphicUsingCpp
+#GraphicUsingCpp
 
 >Change the path to VTK file to run CMakeList
+
 >Click "frame000.png" file if you want to quick view 
 
 Visualized Vertex coordinates and color information to 3D Graphic Video.
